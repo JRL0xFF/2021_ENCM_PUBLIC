@@ -2,3 +2,4 @@ firstname,lastname,email,git_username,repository_name
 course,instructor,jrlong@ucalgary.ca,UofCencm369,2021_ENCM369
 Jason,Long,jason.r.long@gmail.com,JRL0xFF,2021_ENCM369
 Test,Long,jason.r.long@gmail.com,JRL0xFF,2021_ENCM369
+TestFork,Long,jason.r.long@gmail.com,JRL0xFF,2021_ENCM369
